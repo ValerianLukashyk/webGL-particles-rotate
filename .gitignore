@@ -1,7 +1,0 @@
-node_modules
-.netlify
-.cache
-three2
-fonts
-dist
-.gitignore
